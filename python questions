@@ -4,9 +4,139 @@ Java
 
 2. http://stackoverflow.com/questions/2731924/is-there-an-equivalent-of-pythons-timeit-module-in-java-stdlib
 
-3. 
+3. http://stackoverflow.com/questions/18515011/java-lang-nosuchmethoderror-when-trying-to-read-xlsm-file
+
+4. http://stackoverflow.com/questions/20386755/how-do-we-call-a-method-in-a-jar-file-from-a-java-script-method
+
+5. http://stackoverflow.com/questions/18073299/is-there-any-java-api-for-pcre-regex-maching
+
+6. http://stackoverflow.com/questions/19786500/play-framework-2-1-3-debugger-failed-to-attach-handshake-failed
+
+7. http://stackoverflow.com/questions/17347567/retrieve-a-list-of-all-packages-in-a-project-with-google-reflections-library
+
+8. http://stackoverflow.com/questions/21801765/choose-gradle-jdk-in-intellij
+
+9. http://stackoverflow.com/questions/6691039/serve-images-from-a-separate-location-in-jsf1-1
+
+10. http://stackoverflow.com/questions/13133058/avoid-direct-links-to-login-page
+
+11. http://stackoverflow.com/questions/16305062/how-can-i-convert-timezone-of-one-city-to-another
+
+12. http://stackoverflow.com/questions/17208447/install-java-plugin-inside-html-element-in-actionscript3
+
+13. http://stackoverflow.com/questions/16702576/is-it-possible-to-configure-a-custom-error-message-per-converter
 
 
+Javascript- 
+
+1. http://stackoverflow.com/questions/11257872/jsonp-request-with-mootools
+
+2. http://stackoverflow.com/questions/16882357/testing-browsers-default-html5-input-display
+
+3. http://stackoverflow.com/questions/14977162/customize-handlebar-each-helper
+
+4. http://stackoverflow.com/questions/15492519/object-clone-in-method-in-javascript
+
+5. http://stackoverflow.com/questions/15698862/why-does-chromes-javascript-console-overwrite-the-existing-html-at-first-but-a
+
+6. http://stackoverflow.com/questions/17025755/return-multiple-values-from-a-crossfilter-dimension-for-a-pie-chart
+
+7. http://stackoverflow.com/questions/15021485/destroy-one-plugin-within-another-plugin
+
+8. http://stackoverflow.com/questions/11246683/jsonp-with-mootools
+
+9. http://stackoverflow.com/questions/12029188/how-do-i-bring-tests-from-another-test-framework-into-qunit
+
+10. http://stackoverflow.com/questions/14852647/function-influence-on-already-running-function-javascript
+
+
+
+C#
+
+1. http://stackoverflow.com/questions/12094727/open-print-dialog-when-pdf-stream-open-in-new-tab
+
+2. http://stackoverflow.com/questions/13251684/get-to-an-exchange-folder-by-path-using-ews
+
+3. http://stackoverflow.com/questions/6993385/how-to-save-arraylist-of-custom-objects-in-user-settings
+
+4. http://stackoverflow.com/questions/6648178/how-to-get-objects-of-specific-class-from-class-hierarchy-without-discriminator
+
+5. http://stackoverflow.com/questions/6963052/working-with-inetaton-and-inetntoa-in-c-sharp
+
+6. http://stackoverflow.com/questions/10176263/get-a-list-of-all-registerd-memorymapfiles-in-c
+
+7. http://stackoverflow.com/questions/7186128/wpf-components-rapid-connectivity-with-db-like-windows-forms
+
+8. http://stackoverflow.com/questions/17281243/big-json-file-deserialization
+
+9. http://stackoverflow.com/questions/17187944/dynamicobjects-property-needs-to-be-casted-before-invoking-extension-methods
+
+10. http://stackoverflow.com/questions/11223509/strip-html-for-specific-tags
+
+
+PHP
+
+1. http://stackoverflow.com/questions/15658543/vimeo-video-downloading-through-api
+
+2. http://stackoverflow.com/questions/13535474/unknown-algorithm-expected-hmac-sha256-error-due-to-signed-request-cookie-bein
+
+3. http://stackoverflow.com/questions/13527205/doctrine-key-result-array-on-an-id
+
+4. http://stackoverflow.com/questions/11375696/is-there-any-existing-project-that-provide-basic-library-convert-wiki-text-to-ht
+
+5. http://stackoverflow.com/questions/12990098/php-stream-wrapper-meta-data
+
+6. http://stackoverflow.com/questions/2586400/how-to-parse-a-pdf-file-using-php
+
+7. http://stackoverflow.com/questions/7609731/cant-read-clob-into-string-sometimes
+
+8. http://stackoverflow.com/questions/8780716/how-do-i-get-a-screenshot-of-the-first-page-of-a-document-uploaded-using-php-jav
+
+9. http://stackoverflow.com/questions/10466586/how-to-create-a-simple-javascript-pagination-like-see-more-results
+
+10. http://stackoverflow.com/questions/11246671/graphing-dates-with-pchart
+
+
+jQuery
+
+1. http://stackoverflow.com/questions/681973/using-jquery-to-update-table-cell-content-from-an-ajax-call
+
+2. http://stackoverflow.com/questions/9488554/unload-event-in-js-with-jquery
+
+3. http://stackoverflow.com/questions/9704534/jquery-and-php-to-download-files-with-iframe-how-to-throw-an-event-when-php-ha
+
+4. http://stackoverflow.com/questions/12382135/javascript-jquery-to-bookmark-a-webpage-in-chrome-and-safari
+
+5. http://stackoverflow.com/questions/15506197/calling-colorbox-close-from-iframe
+
+6. http://stackoverflow.com/questions/6657949/how-do-i-pass-a-javascript-variable-to-a-rails-controller
+
+7. http://stackoverflow.com/questions/11545702/file-upload-progress-bar-in-iframe
+
+
+HTML
+
+1. http://stackoverflow.com/questions/736844/scrape-html-out-of-ajax-loaded-pages
+
+2. http://stackoverflow.com/questions/15361822/hierarchy-in-html-form-elements-and-posted-data
+
+3. http://stackoverflow.com/questions/11900894/text-rotation-270-degree-in-ie8
+
+4. http://stackoverflow.com/questions/7301216/input-validation-on-a-dynamically-created-table-form-question
+
+5. http://stackoverflow.com/questions/9447772/html-get-title-wrong-encoding-on-%C3%A5%C3%A4%C3%B6
+
+6. http://stackoverflow.com/questions/10480740/parsing-custom-html-tags
+
+7. http://stackoverflow.com/questions/11234809/adding-text-into-textarea-adds-extra-character-what-causes-this
+
+8. http://stackoverflow.com/questions/7472039/parsing-html-and-the-script-tag
+
+
+
+C++
+
+1. 
 
 
 
@@ -39,6 +169,18 @@ Python
 4. http://stackoverflow.com/questions/16865861/unzip-file-in-python-but-dont-change-file-created-time
 
 https://www.isurvey.soton.ac.uk/start.php?id=13709&preview=yes&saveData=yes
+
+
+Python- 10 (python)
+Java- 1 (python)
+Javascript-
+C#-
+php-
+jquery-
+html-
+C++ -
+MySQl-
+asp.net -
 
 
 
